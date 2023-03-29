@@ -1,0 +1,19 @@
+{
+  "NON_KYC_TEXT": "Chưa Kyc",
+  "KYC_STATUS_TEXT": "Trạng thái Kyc",
+  "TYPE_USER_TEXT": "Loại tài khoản",
+  "WITHDRAWABLE_MONEY_TEXT": "Số tiền có thể rút",
+  "JOIN_DATE_TEXT": "Ngày tham gia",
+  "LATEST_USER": "Danh sách user mới nhất",
+  "AMOUNT_DESC": "Số tiền có thể rút giảm dần",
+  "AMOUNT_ASC": "Số tiền có thể rút tăng dần",
+  "TOTAL_REFERRAL_DESC": "Tài khoản được bạn giới thiệu giảm dần",
+  "TOTAL_REFERRAL_ASC": "Tài khoản được bạn giới thiệu tăng dần",
+  "DEFAUL_TEXT": "Mặc định",
+  "TOTAL_PLATFORM_MONEY": "Tổng số tiền toàn sàn",
+  "TOTAL_AMOUNT": "Số dư ",
+  "SIGN_UP_WITH_REFERRAL": "Đăng kí bằng mã giới thiệu",
+  "SIGN_UP_WITH_NON_REFERRAL": "Không đăng kí bằng mã giới thiệu",
+  "REGISTRATION_FORM": "Hình thức đăng kí",
+  "ENTER_NUMBER": "Nhập số"
+}

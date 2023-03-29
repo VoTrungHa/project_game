@@ -1,0 +1,21 @@
+{
+  "COMMON_BUTTON_YES": "Có",
+  "COMMON_BUTTON_NO": "Không",
+  "COMMON_BUTTON_DELETE": "Xóa",
+  "COMMON_BUTTON_EDIT": "Sửa",
+  "COMMON_BUTTON_RESET": "Đặt lại",
+  "COMMON_BUTTON_UPDATE": "Cập nhật",
+  "COMMON_BUTTON_CLOSE": "Đóng",
+  "COMMON_BUTTON_FILTER": "Bỏ lọc",
+  "COMMON_BUTTON_SEARCH": "Tìm kiếm",
+  "COMMON_BUTTON_CANCEL": "Hủy bỏ",
+  "COMMON_BUTTON_ADD": "Thêm",
+  "COMMON_BUTTON_INFO": "Thông tin",
+  "COMMON_BUTTON_APPROVE": "Phê duyệt",
+  "COMMON_BUTTON_UPGRADE": "Nâng cấp",
+  "COMMON_BUTTON_REWARD": "Trao thưởng cho danh sách hiện tại",
+  "COMMON_BUTTON_SEND": "Gửi",
+  "COMMON_BUTTON_ADD_EVENT": "Thêm sự kiện",
+  "CREATE": "Tạo",
+  "UPLOAD_REAWRDS": "Cài đặt danh sách"
+}

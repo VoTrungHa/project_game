@@ -1,0 +1,19 @@
+{
+  "NON_KYC_TEXT": "Non-Kyc",
+  "KYC_STATUS_TEXT": "Kyc status",
+  "TYPE_USER_TEXT": "Type",
+  "WITHDRAWABLE_MONEY_TEXT": "Withdrawable money",
+  "JOIN_DATE_TEXT": "Join date",
+  "LATEST_USER": "Latest user",
+  "AMOUNT_DESC": "Descending amount",
+  "AMOUNT_ASC": "Ascending amount",
+  "TOTAL_REFERRAL_DESC": "Descending total referrals",
+  "TOTAL_REFERRAL_ASC": "Ascending total referrals",
+  "DEFAUL_TEXT": "Default",
+  "TOTAL_PLATFORM_MONEY": "Total platform money",
+  "TOTAL_AMOUNT": "Total amount ",
+  "SIGN_UP_WITH_REFERRAL": "Sign up with a referral code",
+  "SIGN_UP_WITH_NON_REFERRAL": "Sign up with non-referral code",
+  "REGISTRATION_FORM": "Registration form",
+  "ENTER_NUMBER": "Enter number"
+}

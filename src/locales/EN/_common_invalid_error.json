@@ -1,0 +1,8 @@
+{
+  "COMMON_EMAIL_INVALID_ERROR": "Email is invalid",
+  "COMMON_USERNAME_INVALID_ERROR": "UserName is invalid",
+  "COMMON_PASSWORD_INVALID_ERROR": "Password is invalid",
+  "COMMON_PHONE_LENGTH_ERROR": "Length is invalid",
+  "COMMON_USERNAME_INVALID_PATTERN": "Tài khoản phải được bắt đầu bằng chữ cái và chỉ chứa chữ cái, chữ số, kí tự đặc biệt là . hoặc _",
+  "COMMON_6_LENGTH_ERROR": "At least 6 letters"
+}

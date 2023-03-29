@@ -1,0 +1,15 @@
+{
+  "DATE_TIME": "Interest payment date",
+  "INTERST_RATE": "Interest rate",
+  "TOTAL_INTERST_AMOUNT": "Total Interest Amount",
+  "TOTAL_ACCOUNTS": "Total Accounts",
+  "HIGHEST_INTERST_AMOUNT": "Highest Interest Amount",
+  "LOWEST_INTERST_AMOUNT": "Lowest Interest Amount",
+  "AVEGARE_INTERST_AMOUNT": "Average Interest Amount",
+  "TOTAL_AMOUNT_SAT_VNDC": "Total amount of SAT / VNDC paid interest",
+  "TOTAL_AMOUNT_RECEIVING": "Total number of accounts receiving interest",
+  "SAT_BALANCE": "SAT balance at interest calculation",
+  "VNDC_BALANCE": "VNDC balance at interest calculation",
+  "AMOUNT_OF_PROFIT": "Amount of profit received",
+  "INTEREST_PAYMENT": "Interest payment table of the day"
+}

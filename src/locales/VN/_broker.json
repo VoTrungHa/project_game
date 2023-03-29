@@ -1,0 +1,15 @@
+{
+  "ADD_BROKER": "Thêm broker",
+  "WALLET": "Ví",
+  "ADD_DEPOSIT": "Add deposit",
+  "UPDATE": "Cập nhật",
+  "UPDATE_DEPOSIT": "Cập nhật deposit",
+  "ADD_DEPOSIT_SUCCESS": "Thêm deposit thành công",
+  "ADD_BROKER_SUCCESS": "Thêm broker thành công",
+  "TRANSACTION_TYPE": "Kiểu giao dịch",
+  "TOTAL_AMOUNT_TRANSFERRED": "Tổng tiền đã chuyển",
+  "TOTAL_AMOUNT_WITHDRAWN": "Tổng tiền đã rút",
+  "TOTAL_NUMBER_OF_USER_TRANSFERRED": "Tổng số user đã được chuyển tiền",
+  "LIMIT_AMOUNT_5_MILLION": "Số lượng phải nhỏ hơn 5,000,000",
+  "LIMIT_AMOUNT_50_MILLION": "Số lượng phải nhỏ hơn 50,000,000"
+}

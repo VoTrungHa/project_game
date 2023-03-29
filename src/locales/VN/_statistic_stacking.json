@@ -1,0 +1,15 @@
+{
+  "DATE_TIME": "Ngày trả lãi",
+  "INTERST_RATE": "Lãi suất (%)",
+  "TOTAL_INTERST_AMOUNT": "Tổng tiền lãi đã trả trong ngày",
+  "TOTAL_ACCOUNTS": "Tổng số tài khoản trả lãi",
+  "HIGHEST_INTERST_AMOUNT": "Lãi cao nhất",
+  "LOWEST_INTERST_AMOUNT": "Lãi thấp nhất",
+  "AVEGARE_INTERST_AMOUNT": "Lãi suất trung bình",
+  "TOTAL_AMOUNT_SAT_VNDC": "Tổng số SAT / VNDC đã trả lãi",
+  "TOTAL_AMOUNT_RECEIVING": "Tổng số tài khoản nhận lãi",
+  "SAT_BALANCE": "Số dư SAT lúc tính lãi",
+  "VNDC_BALANCE": "Số dư VNDC lúc tính lãi",
+  "AMOUNT_OF_PROFIT": "Số tiền lãi nhận",
+  "INTEREST_PAYMENT": "Bảng trả lãi trong ngày"
+}

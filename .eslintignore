@@ -1,0 +1,3 @@
+**/*.scss
+/src/serviceWorker.ts
+/src/setupTests.ts

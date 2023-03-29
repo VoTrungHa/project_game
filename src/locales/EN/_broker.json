@@ -1,0 +1,15 @@
+{
+  "ADD_BROKER": "Add broker",
+  "WALLET": "Wallet",
+  "ADD_DEPOSIT": "Add deposit",
+  "UPDATE": "Update",
+  "UPDATE_DEPOSIT": "Update deposit",
+  "ADD_DEPOSIT_SUCCESS": "Add deposit successfully",
+  "ADD_BROKER_SUCCESS": "Add broker successfully",
+  "TRANSACTION_TYPE": "Transaction type",
+  "TOTAL_AMOUNT_TRANSFERRED": "Total amount transferred",
+  "TOTAL_AMOUNT_WITHDRAWN": "Total amount withdrawn",
+  "TOTAL_NUMBER_OF_USER_TRANSFERRED": "Total number of users transferred",
+  "LIMIT_AMOUNT_5_MILLION": "Amount must less than 5,000,000",
+  "LIMIT_AMOUNT_50_MILLION": "Amount must less than 50,000,000"
+}

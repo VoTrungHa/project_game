@@ -1,0 +1,11 @@
+{
+  "COMMISSION_TEXT": "Commission",
+  "TOTAL_COMMISSION_TEXT": "Total commission",
+  "TOTAL_REWARD_TEXT": "Total reward",
+  "TOTAL_VALUE_TEXT": "Total value",
+  "APPROVE_COMMISSION_TEXT": "Approve commission",
+  "CONTENT_APPROVE_COMMISSION_PARTNER": "Approve this commission ?",
+  "APPROVE_SUCCESS_TEXT": "Approve commission successfully",
+  "APPROVE_ERROR_TEXT": "Approve commission unsuccessfully",
+  "ARPPROVE_SELECTED_TEXT": "Approve selected row"
+}

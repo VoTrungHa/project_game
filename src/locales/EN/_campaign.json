@@ -1,0 +1,22 @@
+{
+  "NEW_CAMPAIGN_TEXT": "New campaign",
+  "UPDATE_CAMPAIGN_TEXT": "Update campaign",
+  "BANNER_TEXT": "Banner",
+  "SLOGAN_TEXT": "Slogan",
+  "DESCRIPTION_TEXT": "Descripton",
+  "CONTACT_EMAIL_TEXT": "Contact email",
+  "CONTACT_PHONE_TEXT": "Phone email",
+  "CATEGORY_TEXT": "Category",
+  "LOGO_TEXT": "Logo",
+  "DELETE_CAMPAIN_BUTTON": "Delete campaign",
+  "COMMON_PROMPT_DELETE_CAMPAIGN": "Are you sure to delete this campaign",
+  "COMMON_DELETE_CAMPAIGN_ERROR": "Can not delete campaign at this time",
+  "SEARCH_BY_TITLE_OR_KEYWORD_TEXT": "Search by title or keyword",
+  "VIEW_TEXT": "View",
+  "INFO_TEXT": "Info",
+  "NAME_TEXT": "Name",
+  "RATE_TEXT": "Rate",
+  "UPDATE_CASHBACK_TEXT": "Update cashback",
+  "ADD_CASHBACK_TEXT": "Add cashback",
+  "UPDATE_POSITION_ERROR": "Can not update position"
+}

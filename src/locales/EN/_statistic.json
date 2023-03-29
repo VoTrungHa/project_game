@@ -1,0 +1,17 @@
+{
+  "STATISTIC_ACCOUNT_TEXT": "Account statistic",
+  "EXPORT_CSV_TEXT": "Export CSV",
+  "TOTAL_SATOSHI_PAY_TEXT": "Total Satoshi paid",
+  "ALL_TEXT": "All",
+  "DOWNLOAD_CSV_ERROR": "Can not download CSV file",
+  "COMMON_ADD_REWARD_ERROR": "Can not reward at this time",
+  "COMMON_ADD_REWARD_SUCCESS": "Reward successfully",
+  "WITHDRAWAL_STATISTIC_TEXT": "Withdrawal statistic",
+  "TOTAL_MONEY": "Total amount of money",
+  "MONEY_TEXT": "Money",
+  "COMMISSION_RECEIVED": "Commission received",
+  "PENDING_COMMISSION": "Pending commission",
+  "SUCCESSFULL_KYC_DAY": "Successfull kyc day",
+  "NAME_EVENT": "Event name",
+  "PRIZE_POOL": "Prize pool"
+}

@@ -1,0 +1,17 @@
+{
+  "FRONT_TEXT": "Front",
+  "BACK_TEXT": "Back",
+  "PENDING_TEXT": "Pending",
+  "APPROVED_TEXT": "Approved",
+  "REJECTED_TEXT": "Rejected",
+  "IDENTITY_CARD_TEXT": "Identity card",
+  "CITIZEN_IDENTIFICATION_TEXT": "Citizen identification",
+  "PASSPORT_TEXT": "Passport",
+  "VERIFY_KYC_TEXT": "Verify Kyc",
+  "APPROVE_TEXT": "Approve",
+  "REJECT_TEXT": "Reject",
+  "NON_APPROVED_TEXT": "Disapproved",
+  "APPROVE_KYC_TEXT": "Approve KYC",
+  "APPROVE_KYC_SUCCESS": "Approve KYC successfully",
+  "APPROVE_KYC_ERROR": "Approve KYC unsuccessfully"
+}

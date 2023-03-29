@@ -1,0 +1,8 @@
+{
+  "COMMON_EMAIL_INVALID_ERROR": "Email không hợp lệ",
+  "COMMON_USERNAME_INVALID_ERROR": "Tên người dùng không hợp lệ",
+  "COMMON_PASSWORD_INVALID_ERROR": "Mật khẩu không hợp lệ",
+  "COMMON_PHONE_LENGTH_ERROR": "Chiều dài không hợp lệ",
+  "COMMON_USERNAME_INVALID_PATTERN": "Tài khoản phải được bắt đầu bằng chữ cái và chỉ chứa chữ cái, chữ số, kí tự đặc biệt là . hoặc _",
+  "COMMON_6_LENGTH_ERROR": "Tối thiểu 6 kí tự"
+}

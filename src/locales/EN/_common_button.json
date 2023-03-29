@@ -1,0 +1,20 @@
+{
+  "COMMON_BUTTON_YES": "Yes",
+  "COMMON_BUTTON_NO": "No",
+  "COMMON_BUTTON_DELETE": "Delete",
+  "COMMON_BUTTON_EDIT": "Edit",
+  "COMMON_BUTTON_RESET": "Reset",
+  "COMMON_BUTTON_UPDATE": "Update",
+  "COMMON_BUTTON_CLOSE": "Close",
+  "COMMON_BUTTON_FILTER": "Clear filter",
+  "COMMON_BUTTON_SEARCH": "Search",
+  "COMMON_BUTTON_CANCEL": "Cancel",
+  "COMMON_BUTTON_ADD": "Add",
+  "COMMON_BUTTON_INFO": "Info",
+  "COMMON_BUTTON_APPROVE": "Approve",
+  "COMMON_BUTTON_UPGRADE": "Upgrade",
+  "COMMON_BUTTON_REWARD": "Reward current list",
+  "COMMON_BUTTON_SEND": "Send",
+  "COMMON_BUTTON_ADD_EVENT": "Add event",
+  "CREATE": "Create"
+}

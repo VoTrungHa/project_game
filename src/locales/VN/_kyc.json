@@ -1,0 +1,17 @@
+{
+  "FRONT_TEXT": "Mặt trước",
+  "BACK_TEXT": "Mặt sau",
+  "PENDING_TEXT": "Đang chờ duyệt",
+  "APPROVED_TEXT": "Đã duyệt",
+  "REJECTED_TEXT": "Từ chối",
+  "IDENTITY_CARD_TEXT": "CMND",
+  "CITIZEN_IDENTIFICATION_TEXT": "CCCD",
+  "PASSPORT_TEXT": "Hộ chiếu",
+  "VERIFY_KYC_TEXT": "Xác thực Kyc",
+  "APPROVE_TEXT": "Chấp thuận",
+  "REJECT_TEXT": "Từ chối",
+  "NON_APPROVED_TEXT": "Chưa duyệt",
+  "APPROVE_KYC_TEXT": "Duyệt KYC",
+  "APPROVE_KYC_SUCCESS": "Duyệt KYC thành công",
+  "APPROVE_KYC_ERROR": "Duyệt KYC không thành công"
+}

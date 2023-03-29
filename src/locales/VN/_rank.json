@@ -1,0 +1,10 @@
+{
+  "AWARD_UNIT": "Đơn vị giải thưởng",
+  "CHART": "Bảng xếp hạng",
+  "POSITION": "Thứ hạng",
+  "ADD_RANK_SUCCESS": "Thêm bảng xếp hạng thành công",
+  "UPDATE_RANK_SUCCESS": "Cập nhật bảng xếp hạng thành công",
+  "AWARD_SUCCESS": "Trao thưởng thành công",
+  "AWARD_ERROR": "Trao thưởng thất bại",
+  "AWARDED_TEXT": "Đã trao thưởng"
+}

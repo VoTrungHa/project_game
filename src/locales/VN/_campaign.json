@@ -1,0 +1,23 @@
+{
+  "NEW_CAMPAIGN_TEXT": "Chiến dịch mới",
+  "UPDATE_CAMPAIGN_TEXT": "Cập nhật chiến dịch",
+  "BANNER_TEXT": "Ảnh bìa",
+  "SLOGAN_TEXT": "Khẩu hiệu",
+  "DESCRIPTION_TEXT": "Mô tả",
+  "CONTACT_EMAIL_TEXT": "Email liên hệ",
+  "CONTACT_PHONE_TEXT": "Điện thoại liên hệ",
+  "CATEGORY_TEXT": "Danh mục",
+  "LOGO_TEXT": "Ảnh đại diện",
+  "DELETE_CAMPAIN_BUTTON": "Xóa chiến dịch",
+  "COMMON_PROMPT_DELETE_CAMPAIGN": "Bạn có chắc muốn xóa chiến dịch này",
+  "COMMON_DELETE_CAMPAIGN_ERROR": "Không thể xóa chiến dịch vào thời điểm này",
+  "SEARCH_BY_TITLE_OR_KEYWORD_TEXT": "Tìm kiếm theo tiêu đề hoặc từ khóa",
+  "VIEW_TEXT": "Xem",
+  "INFO_TEXT": "Thông tin",
+  "NAME_TEXT": "Tên",
+  "RATE_TEXT": "Phần trăm",
+  "UPDATE_CASHBACK_TEXT": "Cập nhật cashback",
+  "ADD_CASHBACK_TEXT": "Thêm cashback",
+  "UPDATE_POSITION_ERROR": "Không thể cập nhật vị chí",
+  "COMMON_PROMPT_DELETE_SPIN": "Bạn có chắc muốn xóa cài đặt này ?"
+}

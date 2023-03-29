@@ -1,0 +1,19 @@
+{
+  "STATISTIC_ACCOUNT_TEXT": "Thống kê tài khoản",
+  "EXPORT_CSV_TEXT": "Xuất CSV",
+  "TOTAL_SATOSHI_PAY_TEXT": "Tổng Satoshi đã trả",
+  "ALL_TEXT": "Tất cả",
+  "DOWNLOAD_CSV_ERROR": "Không thể tải file CSV",
+  "COMMON_ADD_REWARD_ERROR": "Không thể trao thưởng",
+  "COMMON_ADD_REWARD_SUCCESS": "Trao thưởng thành công",
+  "WITHDRAWAL_STATISTIC_TEXT": "Thống kê rút tiền",
+  "TOTAL_MONEY": "Tổng số tiền",
+  "MONEY_TEXT": "Số tiền",
+  "COMMISSION_RECEIVED": "Hoa hồng đã nhận",
+  "PENDING_COMMISSION": "Hoa hồng đang chờ",
+  "SUCCESSFULL_KYC_DAY": "Ngày KYC thành công",
+  "NAME_EVENT": "Tên sự kiện",
+  "PRIZE_POOL": "Phần thưởng",
+  "TOTAL_PRIZE_POOL": "Tổng phần thưởng đã trả",
+  "TIME": "Thời gian"
+}

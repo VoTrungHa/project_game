@@ -1,0 +1,15 @@
+{
+  "PROFILE_TITLE": "Profile",
+  "PROFILE_FULLNAME": "Full Name",
+  "PROFILE_FIRSTNAME": "First Name",
+  "PROFILE_LASTNAME": "Last Name",
+  "PROFILE_PASSWORD": "Password",
+  "PROFILE_CONFIRM_PASSWORD": "Confirm Password",
+  "PROFILE_CANCEL": "Cancel",
+  "PROFILE_UPDATE": "Update",
+  "PROFILE_VALIDATE_CONFIRM_PASS": "The two passwords that you entered do not match!",
+  "PROFLE_CHANGE_PASSWORD": "Change password",
+  "PROFLE_PERSONAL_INFORMATION": "Personal information",
+  "PROFILE_CHANGE_INFO_ERROR": "Change profile unsuccessfully",
+  "PROFILE_CHANGE_INFO_SUCCESS": "Change profile successfully"
+}

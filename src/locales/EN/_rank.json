@@ -1,0 +1,10 @@
+{
+  "AWARD_UNIT": "Award unit",
+  "CHART": "Chart",
+  "POSITION": "Position",
+  "ADD_RANK_SUCCESS": "Add rank successfully",
+  "UPDATE_RANK_SUCCESS": "Update rank successfully",
+  "AWARD_SUCCESS": "Award successfully",
+  "AWARD_ERROR": "Award unsuccessfully",
+  "AWARDED_TEXT": "Awarded"
+}
